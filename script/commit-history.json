@@ -1,16 +1,35 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "f5e4c6fa22dabc8ebad41ae94508d75f605f24dc",
     "author": "Juanma",
     "commit": {
       "date": "2026-02-12T04:32:32.000Z",
       "message": "initial",
-      "url": "https://github.com/JMSorucoS/TDDLabBaseProject-logfiles/commit/HEAD"
+      "url": "https://github.com/JMSorucoS/TDDLabBaseProject-logfiles/commit/f5e4c6fa22dabc8ebad41ae94508d75f605f24dc"
     },
     "stats": {
       "total": 44,
       "additions": 36,
       "deletions": 8,
+      "date": "2026-02-12"
+    },
+    "coverage": 0,
+    "test_count": 1,
+    "failed_tests": 1,
+    "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Juanma",
+    "commit": {
+      "date": "2026-02-12T04:45:38.000Z",
+      "message": "homework",
+      "url": "https://github.com/juansoruconombremisterioso/tarea3/commit/HEAD"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 9,
+      "deletions": 0,
       "date": "2026-02-12"
     },
     "coverage": 0,
