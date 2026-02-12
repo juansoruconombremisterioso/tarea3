@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Juanma",
+    "commit": {
+      "date": "2026-02-12T04:32:32.000Z",
+      "message": "initial",
+      "url": "https://github.com/JMSorucoS/TDDLabBaseProject-logfiles/commit/HEAD"
+    },
+    "stats": {
+      "total": 44,
+      "additions": 36,
+      "deletions": 8,
+      "date": "2026-02-12"
+    },
+    "coverage": 0,
+    "test_count": 1,
+    "failed_tests": 1,
+    "conclusion": "failure"
+  }
+]
