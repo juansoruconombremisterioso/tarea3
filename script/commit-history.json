@@ -38,17 +38,36 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "2d756530e551c78fe01fb6edeca41add9483993c",
     "author": "Juanma",
     "commit": {
       "date": "2026-02-12T04:53:32.000Z",
       "message": "homework fix",
-      "url": "https://github.com/juansoruconombremisterioso/tarea3/commit/HEAD"
+      "url": "https://github.com/juansoruconombremisterioso/tarea3/commit/2d756530e551c78fe01fb6edeca41add9483993c"
     },
     "stats": {
       "total": 1,
       "additions": 1,
       "deletions": 0,
+      "date": "2026-02-12"
+    },
+    "coverage": 0,
+    "test_count": 1,
+    "failed_tests": 1,
+    "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Juanma",
+    "commit": {
+      "date": "2026-02-12T05:21:31.000Z",
+      "message": "homework fix",
+      "url": "https://github.com/juansoruconombremisterioso/tarea3/commit/HEAD"
+    },
+    "stats": {
+      "total": 13,
+      "additions": 9,
+      "deletions": 4,
       "date": "2026-02-12"
     },
     "coverage": 0,
